@@ -1,0 +1,2 @@
+# Simmi.-Android-
+Personal ai
